@@ -3,7 +3,12 @@ body {
 }
 
 h1 {
-  color: navy;
+  color: Coral;
   margin-left: 80px;
   padding: 40px;
+}
+
+p {
+  color: Bisque;
+  padding: 180px;
 }
