@@ -6,9 +6,12 @@ h1 {
   color: Coral;
   margin-left: 80px;
   padding: 40px;
+  font-family: Apple Chancery;
+  border: 30px, solid, BurlyWood;
 }
 
 p {
   color: Bisque;
   padding: 180px;
+  border
 }
