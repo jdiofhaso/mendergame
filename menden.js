@@ -4,7 +4,7 @@ var wordchoices = ["farted","mendenmomered","need help", "phated out my shenie",
                    ]
 
 function mousePressed() {
-  let rand = Math.ceil(Math.random()*wordchoices.length);
+  let rand = Math.floor(Math.random()*wordchoices.length);
   };
 let words = wordchoices[rand]
 
