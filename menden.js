@@ -26,4 +26,4 @@ if(rand=0) {
                           let words = 'jaropee momero !!!!!'
                           };
 
-document.write(words);
+document.write(<h2>words</h2>);
